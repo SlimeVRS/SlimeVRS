@@ -1,8 +1,8 @@
 # ℹ️ About Me:
 Final-year Computer Engineering student, passionate about software development, data science, and artificial intelligence.
-I have hands-on experience with Python and C++, as well as in the design and training of machine learning models.
-My work also includes back-end development and database management with SQL and Power BI.
-I am driven by curiosity and continuous learning, and I enjoy solving complex problems with innovative and efficient solutions.
+<br>I have hands-on experience with Python and C++, as well as in the design and training of machine learning models.
+<br>My work also includes back-end development and database management with SQL and Power BI.
+<br>I am driven by curiosity and continuous learning, and I enjoy solving complex problems with innovative and efficient solutions.
 
 
 ## 🌐 Socials:
