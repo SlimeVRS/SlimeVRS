@@ -1,5 +1,8 @@
 # ℹ️ About Me:
-Final-year Computer Engineering student, passionate about software development, data science, and artificial intelligence.<br>I have hands-on experience with Python and C++, as well as in the design and training of machine learning models.<br>My work also includes back-end development and database management with SQL and Power BI.<br>I am driven by curiosity and continuous learning, and I enjoy solving complex problems with innovative and efficient solutions.
+Final-year Computer Engineering student, passionate about software development, data science, and artificial intelligence.
+I have hands-on experience with Python and C++, as well as in the design and training of machine learning models.
+My work also includes back-end development and database management with SQL and Power BI.
+I am driven by curiosity and continuous learning, and I enjoy solving complex problems with innovative and efficient solutions.
 
 
 ## 🌐 Socials:
@@ -56,6 +59,7 @@ Final-year Computer Engineering student, passionate about software development, 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
