@@ -75,4 +75,8 @@ Junior Computer Engineering, passionate about software development, data science
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SlimeVRS&rank_icon=percentile&custom_title=SlimeVRS%20stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=SlimeVRS&rank_icon=percentile&custom_title=SlimeVRS%20stats&show_icons=true&include_all_commits=true&theme=transparent)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SlimeVRS&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=SlimeVRS&langs_count=5&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SlimeVRS&repo=SlimeVRS/Federated-Training-TFG&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/SlimeVRS/Federated-Training-TFG)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
